@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mian Umar Saif — a passionate Full-Stack Developer from Pakistan.<br><br>💻 I specialize in PHP (Laravel), Node.js, Express, MongoDB, SQL, and JavaScript.<br>🚀 Currently building full-stack web applications and projects using MERN and Laravel.<br>📫 Let's connect: umarsaif4917@gmail.com
+Hi, I'm Umar Saif — a passionate Full-Stack Developer from Pakistan.<br><br>💻 I specialize in PHP (Laravel), Node.js, Express, MongoDB, SQL, and JavaScript.<br>🚀 Currently building full-stack web applications and projects using MERN and Laravel.<br>📫 Let's connect: umarsaif4917@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mian_umar_saifullah/) 
